@@ -1,0 +1,23 @@
+body {
+    font-family: 'Oxygen', sans-serif;
+}
+
+
+.navbar {
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.title {
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.compare_at_price {
+    font-size: smaller;
+    text-decoration: line-through;
+}
+
+.price {
+    font-size: smaller;
+    color: #1b6d85;
+
+}
